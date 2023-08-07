@@ -1,0 +1,19 @@
+{
+  "name": "task-managment-system-",
+  "version": "1.0.0",
+  "description": "This is an application I'm working on for my milestone 3 project",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RookPeace/Task-Managment-System-.git"
+  },
+  "author": "Andrew Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RookPeace/Task-Managment-System-/issues"
+  },
+  "homepage": "https://github.com/RookPeace/Task-Managment-System-#readme"
+}
